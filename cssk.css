@@ -1,0 +1,39 @@
+body
+{	
+	margin: 0;
+	font-family: arial; 
+}
+
+#header
+{
+	/* border: 1px solid #000000; */
+}
+
+#banner
+{
+   z-index:3px; width:570px;
+}
+#banner2
+{
+   z-index:3px; width:570px; position:absolute; right: 1000px; bottom: 1px; top: -1px;
+}
+#banner3
+{
+   z-index:3px; width:570px; position:absolute; left: 950px; bottom: 1px; top: -1px;
+}
+
+#banner4
+{
+    z-index:3px; width: 200px; position: absolute; left: 1260px; bottom: 400px;
+}
+
+#text
+{
+    z-index:3px;
+	color: #6e5f4a;
+	top: 50px;
+	position:absolute; 
+	font-family:cursive;
+	font-size: 18px;
+	left: 150px;
+}

@@ -1,0 +1,25 @@
+#body 
+{ margin:0px; font-family: arial;}
+
+#bgpic
+{width: 1500px; position: relative; margin:0px;}
+
+#bgcolor
+{
+	background-color: #6e5f4a; margin: 0px; padding: 10px;
+}
+
+.title
+{
+	align-content:center; font-family:cursive; font-size: 25px; letter-spacing: 3px; color: #e4c9a0; 
+}
+
+#text
+{
+	position:absolute; font-family:cursive; font-size: 15px; letter-spacing: 1px; color: #e4c9a0; left: 712px;bottom: 290px;
+}
+
+#p2
+{
+	width: 100px; position: absolute; left: 710px; top: 270px; margin:0px; 
+}
